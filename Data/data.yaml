@@ -1,0 +1,9 @@
+path: C:\Users\tugsu\Desktop\a\hicheel\2025-2026 namar\AI\FinalProject\Data   
+train: images
+val: images
+
+nc: 1
+names: ['buuz']
+
+augment: True
+rect: True          
