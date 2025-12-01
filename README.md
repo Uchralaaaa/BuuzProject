@@ -1,6 +1,6 @@
 CPU: 
 epoch = 10: 
-![alt text](C:\Users\tugsu\Pictures\Screenshots\CPU_epoch_10.jpg)
+![alt text](image-1.png)
 
 epoch = 298: 
 ![alt text](C:\Users\tugsu\Pictures\Screenshots\CPU_epoch_298.jpg)
