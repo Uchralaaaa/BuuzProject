@@ -1,3 +1,28 @@
+# 🍲 Buuz Detection AI
+
+[![Python](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-CUDA-blue)](https://pytorch.org/)
+
+
+An AI model that detects and counts buuz (Mongolian dumplings) from images using YOLOv8. Optimized for GPU training.
+
+
+## 📚 Table of Contents
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Dataset](#dataset)
+- [Results](#results)
+- [License](#license)
+
+
+## ✨ Features
+- Detect buuz in images
+- Count total buuz automatically
+- GPU-accelerated training
+- Supports batch prediction
+
+
 CPU: 
 epoch = 10: 
 ![alt text](image.png)
