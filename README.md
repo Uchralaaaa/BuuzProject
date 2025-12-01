@@ -1,9 +1,9 @@
 CPU: 
 epoch = 10: 
-![alt text](image-1.png)
+![alt text](image.png)
 
 epoch = 298: 
-![alt text](C:\Users\tugsu\Pictures\Screenshots\CPU_epoch_298.jpg)
+![alt text](image-1.png)
 "C:\Users\tugsu\AppData\Local\Programs\Python\Python312\python.exe" -m pip install ultralytics>=8.3.0 –no-cache-dir
 
 "C:\Users\tugsu\AppData\Local\Programs\Python\Python312\python.exe" -m ultralytics predict model=buuz_runs\yolo11s_60photos\weights\best.pt source=test.jpg conf=0.4 save=True
