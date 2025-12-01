@@ -66,3 +66,8 @@ Epoch = 298:
 
 ## Ажиллуулах
 "C:\Users\<Өөрийн username>\AppData\Local\Programs\Python\Python312\python.exe" "C:\Users\<Өөрийн path>\Count_my_buuz.py"
+
+## Үр дүн
+
+![alt text](buuz13.jpg)
+![alt text](buuz13_counted.jpg)

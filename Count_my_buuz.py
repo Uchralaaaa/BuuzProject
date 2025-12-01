@@ -29,16 +29,16 @@ def count_buuz(image_path):
 
 
 # Zamaa zaaj uguud function-oo ajilluulah
-count_buuz(r"C:\Users\tugsu\Desktop\a\hicheel\2025-2026 namar\AI\FinalProject\Data\test\buuz70.jpg")
-count_buuz(r"C:\Users\tugsu\Desktop\a\hicheel\2025-2026 namar\AI\FinalProject\Data\test\buuz71.jpg")
-count_buuz(r"C:\Users\tugsu\Desktop\a\hicheel\2025-2026 namar\AI\FinalProject\Data\test\buuz72.jpg")
-count_buuz(r"C:\Users\tugsu\Desktop\a\hicheel\2025-2026 namar\AI\FinalProject\Data\test\buuz73.jpg")
-count_buuz(r"C:\Users\tugsu\Desktop\a\hicheel\2025-2026 namar\AI\FinalProject\Data\test\buuz74.jpg")
-count_buuz(r"C:\Users\tugsu\Desktop\a\hicheel\2025-2026 namar\AI\FinalProject\Data\test\buuz75.jpg")
-count_buuz(r"C:\Users\tugsu\Desktop\a\hicheel\2025-2026 namar\AI\FinalProject\Data\test\buuz76.jpg")
-count_buuz(r"C:\Users\tugsu\Desktop\a\hicheel\2025-2026 namar\AI\FinalProject\Data\test\buuz77.jpg")
-count_buuz(r"C:\Users\tugsu\Desktop\a\hicheel\2025-2026 namar\AI\FinalProject\Data\test\buuz78.jpg")
-count_buuz(r"C:\Users\tugsu\Desktop\a\hicheel\2025-2026 namar\AI\FinalProject\Data\test\buuz60.jpg")
+count_buuz(r"C:\Users\tugsu\Desktop\a\hicheel\2025-2026 namar\AI\FinalProject\Data\test\buuz13.jpg")
+# count_buuz(r"C:\Users\tugsu\Desktop\a\hicheel\2025-2026 namar\AI\FinalProject\Data\test\buuz71.jpg")
+# count_buuz(r"C:\Users\tugsu\Desktop\a\hicheel\2025-2026 namar\AI\FinalProject\Data\test\buuz72.jpg")
+# count_buuz(r"C:\Users\tugsu\Desktop\a\hicheel\2025-2026 namar\AI\FinalProject\Data\test\buuz73.jpg")
+# count_buuz(r"C:\Users\tugsu\Desktop\a\hicheel\2025-2026 namar\AI\FinalProject\Data\test\buuz74.jpg")
+# count_buuz(r"C:\Users\tugsu\Desktop\a\hicheel\2025-2026 namar\AI\FinalProject\Data\test\buuz75.jpg")
+# count_buuz(r"C:\Users\tugsu\Desktop\a\hicheel\2025-2026 namar\AI\FinalProject\Data\test\buuz76.jpg")
+# count_buuz(r"C:\Users\tugsu\Desktop\a\hicheel\2025-2026 namar\AI\FinalProject\Data\test\buuz77.jpg")
+# count_buuz(r"C:\Users\tugsu\Desktop\a\hicheel\2025-2026 namar\AI\FinalProject\Data\test\buuz78.jpg")
+# count_buuz(r"C:\Users\tugsu\Desktop\a\hicheel\2025-2026 namar\AI\FinalProject\Data\test\buuz60.jpg")
 
 # Zurag nemeheer bol
 count_buuz(r"C:\Users\tugsu\Desktop\a\hicheel\2025-2026 namar\AI\FinalProject\Data\buuz_new_phone.jpg")
