@@ -23,3 +23,6 @@ Model (GPU) сургах
 yolo train model=yolo11s.pt data="C:\Users\tugsu\Desktop\a\hicheel\2025-2026 namar\AI\FinalProject\Data\data.yaml" epochs=300 imgsz=640 batch=8 patience=40 freeze=10 amp=True project=buuz_runs name=yolo11s_gpu_fast exist_ok=True
 
 yolo train model=yolo11s.pt data=data.yaml epochs=300 imgsz=640 batch=8 patience=40 freeze=10 amp=True project=buuz_runs name=yolo11s_gpu_fast exist_ok=True
+
+![alt text](image-2.png)
+![alt text](image-3.png)
