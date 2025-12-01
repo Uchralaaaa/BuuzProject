@@ -10,7 +10,7 @@ An AI model that detects and counts buuz (Mongolian dumplings) from images using
 ## Ашигласан модел
 
 ### Yolo11s
-![alt text](<Screenshot 2025-11-29 110633.png>)
+![alt text](Screenshot 2025-11-29 110633.png)
 
 YOLO (You Only Look Once) бол объект таних нейрон сүлжээний загвар бөгөөд реал таймд дүрс болон видеон дээр объектуудыг хурдан танихад зориулагдсан.
 
