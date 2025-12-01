@@ -69,5 +69,7 @@ Epoch = 298:
 
 ## Үр дүн
 
-![alt text](buuz13.jpg)
-![alt text](buuz13_counted.jpg)
+<p float="left">
+  <img src="buuz13.jpg" alt="buuz13" width="300" />
+  <img src="buuz13_counted.jpg" alt="buuz13_counted" width="300" />
+</p>
